@@ -1,0 +1,2 @@
+comparison,difference,ci_low,ci_high,H1 supported (CI > 0)
+resnet50 gap - vit gap,-0.03654985218147416,-0.051038578253806186,-0.021601202305220567,False
