@@ -1,0 +1,13 @@
+# Run on Google Colab (T4 GPU, torch 2.11.0). Colab already has torch, torchvision,
+# numpy, pandas, matplotlib and Pillow; the notebook installs the rest with pip.
+torch
+torchvision
+transformers
+timm
+scikit-learn
+scipy
+seaborn
+pandas
+numpy
+matplotlib
+Pillow
